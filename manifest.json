@@ -1,0 +1,16 @@
+{
+    "name": "Premiere League",
+    "gcm_sender_id": "554736624547",
+    "short_name": "PL",
+    "description": "Klasemen Liga Inggris musim 2021",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#37003D",
+    "theme_color": "#37003D",
+    "icons": [
+    {
+        "src": "assets/img/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+}
